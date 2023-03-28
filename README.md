@@ -1,1 +1,2 @@
 0x11. C - printf
+The "printf" project is a programming exercise that is commonly used in introductory computer science courses to help students learn the basics of the C programming language. The goal of the project is to create a function that can print formatted output to the console. The printf function is a powerful tool that can be used to display strings, numbers, and other data types in a variety of ways.
